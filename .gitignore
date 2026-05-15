@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Gemini stock Chrome extension (Node / Vite)
+gemini-stock-extension/node_modules/
+gemini-stock-extension/dist/
+gemini-stock-extension/.env
